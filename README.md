@@ -15,4 +15,4 @@ Windows
  document 
    HTML 
      - HEAD -> meta, meta, title, link  
-     - BODY - div (img, h1, p, div), script
+     - BODY - div (img, h1, p, div), script 
