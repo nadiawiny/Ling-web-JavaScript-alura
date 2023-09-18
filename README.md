@@ -1,18 +1,8 @@
-O que é DOM: Document Object Model 
+## JavaScript a linguagem da Web
 
-DOM- Interface padronizada 
-permite que os programas, navegadores e scripts possam manioular os conteudos de uma pagina web
+| Aprendendo os fundamentos e as boas praticas da linguagem JavaScrip na formação de Front-end T5 - ONE da Alura
 
-Document Object Model - Modelo de documento por objeto
-
--------------------------------------------------------------------------------------------------
-- Teoria -
-
-DOM - é a representação desse aquivo html em formato de nós, onde cada nó é um objeto e cada um desses objetos representam uma tag ou um texto do nosso arquivo html.
-
-- DOM - uma arvaro de estrutura de dados
-Windows
- document 
-   HTML 
-     - HEAD -> meta, meta, title, link  
-     - BODY - div (img, h1, p, div), script 
+° JavaScript: explorando a linguagem   
+° JavaScript na Web: manipulando o DOM com JS    
+° JavaScript: métodos de arry   
+° JavaScript: consumindo e tratando dados de uma API   
